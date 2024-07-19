@@ -14,6 +14,7 @@ public class prac3 {
         }
         scanner.close();
         System.out.println(solution(input));
+
     }
 
     public static String solution(int[] input) {
