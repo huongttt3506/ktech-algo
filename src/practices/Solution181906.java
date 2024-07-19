@@ -1,6 +1,6 @@
-package programmers;
+package practices;
 //https://school.programmers.co.kr/learn/courses/30/lessons/181906
-public class prac2 {
+public class Solution181906 {
     public static void main(String[] args) {
 
     }

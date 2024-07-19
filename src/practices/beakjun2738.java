@@ -1,17 +1,14 @@
-package boj;
+package practices;
+// https://www.acmicpc.net/problem/2738
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-//https://www.acmicpc.net/problem/2738
-public class Main2738 {
+public class beakjun2738 {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-//        String[] tokens = reader.readLine().split(" ");
-//        int n = Integer.parseInt(tokens[0]);
-//        int m = Integer.parseInt(tokens[1]);
         int[] tokens = Arrays.stream(reader.readLine().split(" "))
                 .mapToInt(Integer::parseInt)
                 .toArray();
@@ -25,32 +22,25 @@ public class Main2738 {
             a[i] = Arrays.stream(reader.readLine().split(" "))
                     .mapToInt(Integer::parseInt)
                     .toArray();
-//            tokens = reader.readLine().split(" ");
-//            int[] row = a[i];
-//            for (int j = 0; j < m; j++) {
-//                row[j] = Integer.parseInt(tokens[j]);
-//           }
         }
 
         for (int i= 0; i < n; i++) {
             b[i] = Arrays.stream(reader.readLine().split(" "))
                     .mapToInt(Integer::parseInt)
                     .toArray();
-//            tokens = reader.readLine().split(" ");
-//            int[] row = b[i];
-//            for (int j = 0; j < m; j++) {
-//                row[j] = Integer.parseInt(tokens[j]);
-//            }
         }
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 result[i][j] = a[i][j] + b[i][j];
             }
         }
-//        System.out.println(Arrays.deepToString(result));
-        for (int[] row : result) {
-            System.out.println(Arrays.toString(row));
-        }
 
+        for (int[] row : result) {
+            for (int num : row) {
+                System.out.print(num + " ");
+            }
+            System.out.println();
+        }
     }
 }
+

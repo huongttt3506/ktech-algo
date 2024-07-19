@@ -1,8 +1,8 @@
-package programmers;
+package practices;
 //https://school.programmers.co.kr/learn/courses/30/lessons/181929
 //
 
-public class prac1 {
+public class Solution181292 {
     public static void main(String[] args) {
         int[] list1 = {3, 4, 5, 2, 1};
         int[] list2 = {5, 7, 8, 3};
