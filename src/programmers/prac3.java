@@ -1,4 +1,4 @@
-package boj;
+package programmers;
 
 import java.util.Arrays;
 import java.util.Scanner;

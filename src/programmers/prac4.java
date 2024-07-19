@@ -1,4 +1,4 @@
-package boj;
+package programmers;
 //https://school.programmers.co.kr/learn/courses/30/lessons/181883
 public class prac4 {
     public int[] solution(int[] arr, int[][] queries) {
