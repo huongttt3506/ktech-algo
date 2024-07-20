@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30e8bae7-5d50-47d2-a820-e818c3778275" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution161990.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution172928.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181883.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181929.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181932.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/beakjun2738.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution181886.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution181893.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution181908.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution181931.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution181951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution250126.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution258712.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/beakjun10815.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/beakjun10815_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boj/Main2738.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/prac1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181292.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/prac2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181906.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/prac3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/beakjun3003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/prac4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181929" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181883.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181883.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181906.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181906.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,10 @@
     "Application.D3Input.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main2738.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Solution181931.executor": "Run",
+    "Application.Solution181951.executor": "Run",
+    "Application.Solution250126.executor": "Run",
     "Application.prac1.executor": "Run",
     "Application.prac3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -58,7 +63,20 @@
     "onboarding.tips.debug.path": "D:/HUONG/ktech-algo/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practices.Solution" />
+      <module name="ktech-algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution181292" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practices.Solution181292" />
       <module name="ktech-algo" />
@@ -72,8 +90,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution181931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practices.Solution181931" />
+      <module name="ktech-algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution250126" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practices.Solution250126" />
+      <module name="ktech-algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution250126" />
+        <item itemvalue="Application.Solution181931" />
         <item itemvalue="Application.Solution181292" />
       </list>
     </recent_temporary>
@@ -88,6 +135,17 @@
       <updated>1721275851769</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
