@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 
 // https://www.acmicpc.net/problem/10815
-public class beakjun10815 {
+public class beakjoon10815 {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(
                 new InputStreamReader(System.in));

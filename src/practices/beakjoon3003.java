@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 //https://www.acmicpc.net/problem/3003
-public class beakjun3003 {
+public class beakjoon3003 {
     public static void main(String[] args) throws IOException {
         // 한줄의 문자열을 입력받고
         BufferedReader reader = new BufferedReader(

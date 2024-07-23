@@ -5,19 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30e8bae7-5d50-47d2-a820-e818c3778275" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181886.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181893.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181908.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181931.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181951.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution250126.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution258712.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/beakjun10815.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/beakjun10815_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c2Sorting/D1BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c2Sorting/D2SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c2Sorting/D3CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c2Sorting/D4BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution178871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution181884.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution181894.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution181914.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution181916.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution181938.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Solution181939.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/beakjoon10988.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practices/Solution181292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181929" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practices/Solution181883.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181883.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practices/Solution181906.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181906.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181893.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181893.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181929" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181932.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181932.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjun10815.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/beakjoon10815.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjun10815_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/beakjoon10815_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjun1552.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/beakjoon1552.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjun2738.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/beakjoon2738.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjun3003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/beakjoon3003.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +56,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.D1BubbleSort.executor": "Run",
+    "Application.D21SelectionSort.executor": "Run",
+    "Application.D3CountingSort.executor": "Run",
     "Application.D3Input.executor": "Run",
+    "Application.D4BinarySearch.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main2738.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.Solution181884.executor": "Run",
     "Application.Solution181931.executor": "Run",
+    "Application.Solution181938.executor": "Run",
     "Application.Solution181951.executor": "Run",
     "Application.Solution250126.executor": "Run",
+    "Application.beakjoon10988.executor": "Run",
     "Application.prac1.executor": "Run",
     "Application.prac3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,7 +79,20 @@
     "onboarding.tips.debug.path": "D:/HUONG/ktech-algo/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager">
+    <configuration name="D1BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c2Sorting.D1BubbleSort" />
+      <module name="ktech-algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c2Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practices.Solution" />
       <module name="ktech-algo" />
@@ -77,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution181292" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practices.Solution181292" />
+    <configuration name="Solution181884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practices.Solution181884" />
       <module name="ktech-algo" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution181931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practices.Solution181931" />
+    <configuration name="Solution181938" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practices.Solution181938" />
       <module name="ktech-algo" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution250126" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practices.Solution250126" />
+    <configuration name="beakjoon10988" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practices.beakjoon10988" />
       <module name="ktech-algo" />
       <extension name="coverage">
         <pattern>
@@ -118,10 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.beakjoon10988" />
+        <item itemvalue="Application.Solution181884" />
+        <item itemvalue="Application.Solution181938" />
+        <item itemvalue="Application.D1BubbleSort" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution250126" />
-        <item itemvalue="Application.Solution181931" />
-        <item itemvalue="Application.Solution181292" />
       </list>
     </recent_temporary>
   </component>
