@@ -5,28 +5,87 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30e8bae7-5d50-47d2-a820-e818c3778275" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/c2Sorting/D1BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c2Sorting/D2SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c2Sorting/D3CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c2Sorting/D4BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution178871.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181884.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181894.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181914.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181916.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181938.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/Solution181939.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practices/beakjoon10988.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c3Stack/d1Stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c3Stack/d1Stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c3Stack/d2par/parenthesisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c3Stack/d3DepthFirstSearch/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c4Queue/d1queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c4Queue/d1queue/MyCyclicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c4Queue/d1queue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c4Queue/d2linkedlist/LinkedListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c4Queue/d2linkedlist/ListComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c4Queue/d2linkedlist/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c4Queue/d2linkedlist/QueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c4Queue/d3BreadthFirstSearch/BreadthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c5brute/d2comb/Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main10798.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main10809.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main1158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main20001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main25083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main2566.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main29813.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main3986.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main4949.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution120808.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution120809.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution120811.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution120812.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution120813.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution120814.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution120815.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution120863.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution120913.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution120956.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution12910.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution12911.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution12921.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution12932.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution159994.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution176963.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181895.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181899.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181903.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181904.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181910.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181915.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181920.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181925.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181928.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181934.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181935.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181936.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181945.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practices/Solution181893.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181893.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practices/Solution181929" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practices/Solution181932.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/Solution181932.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practices/beakjun10815.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/beakjoon10815.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practices/beakjun10815_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/beakjoon10815_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practices/beakjun1552.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/beakjoon1552.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practices/beakjun2738.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/beakjoon2738.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practices/beakjun3003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practices/beakjoon3003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution161990.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution161990.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution172928.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution172928.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution178871.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution178871.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181883.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181883.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181884.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181886.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181886.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181893.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181893.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181894.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181894.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181906.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181906.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181908.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181908.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181914.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181914.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181916.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181916.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181929.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181931.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181931.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181932.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181932.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181938.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181938.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181939.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181939.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution181951.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution181951.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution250126.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution250126.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/Solution258712.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_programmers/Solution258712.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjoon10810.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main10810.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjoon10815.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main10815.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjoon10815_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main10815_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjoon10988.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main10988.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjoon1552.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main15552.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjoon2738.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main2738.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practices/beakjoon3003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_beakjoon/Main3003.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,24 +121,42 @@
     "Application.D3Input.executor": "Run",
     "Application.D4BinarySearch.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
+    "Application.Main2566.executor": "Run",
     "Application.Main2738.executor": "Run",
+    "Application.Main29813.executor": "Run",
+    "Application.Main4949.executor": "Run",
+    "Application.QueueMain.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.Solution120808.executor": "Run",
+    "Application.Solution120812.executor": "Run",
+    "Application.Solution120956.executor": "Run",
+    "Application.Solution12910.executor": "Run",
+    "Application.Solution12911.executor": "Run",
+    "Application.Solution12932.executor": "Run",
+    "Application.Solution159994.executor": "Run",
     "Application.Solution181884.executor": "Run",
+    "Application.Solution181904.executor": "Run",
+    "Application.Solution181925.executor": "Run",
+    "Application.Solution181928.executor": "Run",
     "Application.Solution181931.executor": "Run",
     "Application.Solution181938.executor": "Run",
+    "Application.Solution181945.executor": "Run",
     "Application.Solution181951.executor": "Run",
     "Application.Solution250126.executor": "Run",
     "Application.beakjoon10988.executor": "Run",
     "Application.prac1.executor": "Run",
     "Application.prac3.executor": "Run",
+    "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/ＡＡHUONG/ktech-algo",
-    "onboarding.tips.debug.path": "D:/HUONG/ktech-algo/src/Main.java"
+    "last_opened_file_path": "D:/ＡＡHUONG/Ktech-SpringBoot/02_crud/build.gradle",
+    "onboarding.tips.debug.path": "D:/HUONG/ktech-algo/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution120812">
     <configuration name="D1BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="c2Sorting.D1BubbleSort" />
       <module name="ktech-algo" />
@@ -93,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practices.Solution" />
+    <configuration name="Solution120808" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_programmers.Solution120808" />
       <module name="ktech-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practices.*" />
+          <option name="PATTERN" value="practice_programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution181884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practices.Solution181884" />
+    <configuration name="Solution120812" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_programmers.Solution120812" />
       <module name="ktech-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practices.*" />
+          <option name="PATTERN" value="practice_programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution181938" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practices.Solution181938" />
+    <configuration name="Solution120956" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_programmers.Solution120956" />
       <module name="ktech-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practices.*" />
+          <option name="PATTERN" value="practice_programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="beakjoon10988" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practices.beakjoon10988" />
+    <configuration name="Solution12911" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_programmers.Solution12911" />
       <module name="ktech-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practices.*" />
+          <option name="PATTERN" value="practice_programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,15 +224,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.beakjoon10988" />
-        <item itemvalue="Application.Solution181884" />
-        <item itemvalue="Application.Solution181938" />
+        <item itemvalue="Application.Solution120812" />
+        <item itemvalue="Application.Solution120956" />
+        <item itemvalue="Application.Solution120808" />
+        <item itemvalue="Application.Solution12911" />
         <item itemvalue="Application.D1BubbleSort" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\teisspi\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="30e8bae7-5d50-47d2-a820-e818c3778275" name="Changes" comment="" />
@@ -178,14 +258,10 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="orderTokens.countTokens()" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
